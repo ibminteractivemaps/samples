@@ -4,7 +4,7 @@
 
 **Maps**
 
-- [Sample1](./maps/README.md)
+- [Sample1](maps/README.md)
 
 **Datasets**
 
