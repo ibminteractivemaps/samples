@@ -1,4 +1,4 @@
-# IBM Interactive Maps for Bluemix /
+# IBM Interactive Maps for Bluemix
 
 ## Sample Area
 
