@@ -4,15 +4,15 @@
 
 **Maps**
 
-- [Sample1](maps.md#sample1)
+- [Sample1](./maps/README.md)
 
 **Datasets**
 
-- [Sample1](maps.md#sample1)
+- [Sample1](./datasets/README.md)
 
 **Styling**
 
-- [Sample1](maps.md#sample1)
+- [Sample1](./styles/README.md)
 
 **Plugins**
 
