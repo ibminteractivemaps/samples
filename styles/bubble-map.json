@@ -1,0 +1,56 @@
+{
+"fillColor": {
+"default": {
+"ranges": [
+"FALSE",
+"TRUE"
+],
+"values": [
+"#386cb0",
+"#f0027f"
+],
+"attribute": "Arrest"
+}
+},
+"strokeWidth": {
+"default": {
+"value": 3
+}
+},
+"fillOpacity": {
+"default": {
+"value": 0.2
+}
+},
+"strokeColor": {
+"default": {
+"ranges": [
+"FALSE",
+"TRUE"
+],
+"values": [
+"#386cb0",
+"#f0027f"
+],
+"attribute": "Arrest"
+}
+},
+"pointRadius": {
+"default": {
+"ranges": [
+"FALSE",
+"TRUE"
+],
+"values": [
+"7",
+"12"
+],
+"attribute": "Domestic"
+}
+},
+"strokeOpacity": {
+"default": {
+"value": 0.85
+}
+}
+}
