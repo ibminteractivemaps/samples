@@ -1,0 +1,68 @@
+{
+   "fillColor": {
+      "default": {
+         "colorBrewer": "Set3",
+         "ranges": [
+            "Africa",
+            "Antartica",
+            "Asia",
+            "Europe",
+            "North America",
+            "Oceania",
+            "South America",
+            "Seven Seas (open ocean)"
+         ],
+         "attribute": "continent",
+         "values": [
+            "#8dd3c7",
+            "#ffffb3",
+            "#bebada",
+            "#fb8072",
+            "#80b1d3",
+            "#fdb462",
+            "#b3de69",
+            "#fccde5"
+         ]
+      }
+   },
+   "strokeWidth": {
+      "default": {
+         "value": 2
+      }
+   },
+   "fillOpacity": {
+      "default": {
+         "value": 0.5
+      }
+   },
+   "labelAlign": {
+      "default": {
+         "value": "center"
+      }
+   },
+   "fontSize": {
+      "default": {
+         "value": "14px"
+      }
+   },
+   "label": {
+      "default": {
+         "attribute": "postal"
+      }
+   },
+   "strokeColor": {
+      "default": {
+         "value": "#bd0026"
+      }
+   },
+   "pointRadius": {
+      "default": {
+         "value": 3
+      }
+   },
+   "strokeOpacity": {
+      "default": {
+         "value": 0.8
+      }
+   }
+}
